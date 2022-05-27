@@ -21,3 +21,8 @@ li{
 h4{
     color:rgb(27, 23, 61);
 }
+.vik{
+    font-family: 'Courier New', Courier, monospace;
+    color:rgb(53, 10, 10);
+    font-weight:bold
+}
