@@ -1,0 +1,25 @@
+.recipe{
+    font-size:xx-small;
+    
+}
+.recipe header{
+    background-color: gray;
+    color:#ffff00;
+}
+
+.recipe .Comments p{
+background-color: #ffff00;
+padding-left: 20px;
+}
+
+.validator{
+
+    float: right;
+    display:flex;
+    clear: right;
+
+}
+footer code{
+    float:right;
+    clear:right
+}
