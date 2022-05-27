@@ -1,0 +1,23 @@
+.mood{
+    display:flex;
+    justify-content:start;
+  
+}
+.about{
+    background-color: rgb(61, 104, 113);
+    opacity: 0.9;
+}
+.img{
+    width:50%;
+}
+h6 span{
+    color:rgb(73, 32, 32);
+}
+li{
+    font-family:verdana;
+    font-size: small;
+    font-weight: 50;
+}
+h4{
+    color:rgb(27, 23, 61);
+}
