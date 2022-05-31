@@ -63,14 +63,22 @@ console.log(multiply([1,2,3,4]))
 //For example, reverse("jag testar") should return the string "ratset gaj".
 
 function reverses(word){
-//     let result="";
+    var result="";
 
-// for(i=word.length;i<=0;--i)
+for(var i=word.length-1;i>=0;i--){
+result=result+word.charAt(i)
+}
+return result;
+
+// var result="";
+
+// for(var i=0;i<=0;i++){
 // result=result+word.charAt(i)
+// }
 // console.log(result)
 // return result;
 
-return word.split("").reverse().join("");
+//return word.split("").reverse().join("");
 
 }
 
