@@ -3,6 +3,9 @@
     justify-content:start;
   
 }
+body{
+    background-color: rgb(61, 104, 113);
+}
 .about{
     background-color: rgb(61, 104, 113);
     opacity: 0.9;
